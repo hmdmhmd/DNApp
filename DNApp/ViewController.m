@@ -25,8 +25,6 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     [self setNeedsStatusBarAppearanceUpdate];
-    
-    //i have added some comment here to test gitup
 }
 
 - (IBAction)LoginClicked:(id)sender {
