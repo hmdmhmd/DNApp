@@ -53,7 +53,9 @@ code_sign_if_enabled() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework 'Pods-DNApp/Canvas.framework'
+  install_framework 'Pods-DNApp/TPKeyboardAvoiding.framework'
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework 'Pods-DNApp/Canvas.framework'
+  install_framework 'Pods-DNApp/TPKeyboardAvoiding.framework'
 fi

@@ -3,4 +3,5 @@ use_frameworks!
 
 target ‘DNApp’ do
   pod 'Canvas'
+  pod 'TPKeyboardAvoiding'
 end

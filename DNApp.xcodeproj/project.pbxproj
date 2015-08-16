@@ -14,6 +14,10 @@
 		8A8DD3051B7E3CD0002B3B6E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A8DD3041B7E3CD0002B3B6E /* ViewController.m */; };
 		8A8DD3081B7E3CD0002B3B6E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A8DD3061B7E3CD0002B3B6E /* Main.storyboard */; };
 		8A8DD30A1B7E3CD0002B3B6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A8DD3091B7E3CD0002B3B6E /* Assets.xcassets */; };
+		8AE547321B80010000F2AFE3 /* DNApi.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AE547311B80010000F2AFE3 /* DNApi.m */; };
+		8AE547351B800E3E00F2AFE3 /* HomeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AE547341B800E3E00F2AFE3 /* HomeTableViewController.m */; };
+		8AE547381B800F2000F2AFE3 /* StoryTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AE547371B800F2000F2AFE3 /* StoryTableViewCell.m */; };
+		8AE5473A1B80111900F2AFE3 /* HomeList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8AE547391B80111900F2AFE3 /* HomeList.plist */; };
 		A9E9E935EDA6466A49F34AA1 /* Pods_DNApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39B2FE0D9C1EFCF5DB3009D3 /* Pods_DNApp.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
@@ -31,6 +35,13 @@
 		8A8DD3071B7E3CD0002B3B6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8A8DD3091B7E3CD0002B3B6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A8DD30E1B7E3CD0002B3B6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8AE547301B80010000F2AFE3 /* DNApi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DNApi.h; sourceTree = "<group>"; };
+		8AE547311B80010000F2AFE3 /* DNApi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DNApi.m; sourceTree = "<group>"; };
+		8AE547331B800E3E00F2AFE3 /* HomeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeTableViewController.h; sourceTree = "<group>"; };
+		8AE547341B800E3E00F2AFE3 /* HomeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeTableViewController.m; sourceTree = "<group>"; };
+		8AE547361B800F2000F2AFE3 /* StoryTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StoryTableViewCell.h; sourceTree = "<group>"; };
+		8AE547371B800F2000F2AFE3 /* StoryTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StoryTableViewCell.m; sourceTree = "<group>"; };
+		8AE547391B80111900F2AFE3 /* HomeList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = HomeList.plist; sourceTree = "<group>"; };
 		DE97D6152D8E291B0173CBB5 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -86,6 +97,13 @@
 				8A8DD30E1B7E3CD0002B3B6E /* Info.plist */,
 				8A8DD2FD1B7E3CD0002B3B6E /* Supporting Files */,
 				8A8198841B7EB4B2009689DE /* Launch Screen.storyboard */,
+				8AE547301B80010000F2AFE3 /* DNApi.h */,
+				8AE547311B80010000F2AFE3 /* DNApi.m */,
+				8AE547331B800E3E00F2AFE3 /* HomeTableViewController.h */,
+				8AE547341B800E3E00F2AFE3 /* HomeTableViewController.m */,
+				8AE547361B800F2000F2AFE3 /* StoryTableViewCell.h */,
+				8AE547371B800F2000F2AFE3 /* StoryTableViewCell.m */,
+				8AE547391B80111900F2AFE3 /* HomeList.plist */,
 			);
 			path = DNApp;
 			sourceTree = "<group>";
@@ -168,6 +186,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8A8198851B7EB4B2009689DE /* Launch Screen.storyboard in Resources */,
+				8AE5473A1B80111900F2AFE3 /* HomeList.plist in Resources */,
 				8A8DD30A1B7E3CD0002B3B6E /* Assets.xcassets in Resources */,
 				8A8DD3081B7E3CD0002B3B6E /* Main.storyboard in Resources */,
 			);
@@ -214,7 +233,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				8A8DD3051B7E3CD0002B3B6E /* ViewController.m in Sources */,
+				8AE547381B800F2000F2AFE3 /* StoryTableViewCell.m in Sources */,
+				8AE547351B800E3E00F2AFE3 /* HomeTableViewController.m in Sources */,
 				8A8DD3021B7E3CD0002B3B6E /* AppDelegate.m in Sources */,
+				8AE547321B80010000F2AFE3 /* DNApi.m in Sources */,
 				8A8DD2FF1B7E3CD0002B3B6E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

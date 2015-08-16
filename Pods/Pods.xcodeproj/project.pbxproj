@@ -7,104 +7,146 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		06403B37B818D8455246306C32520986 /* Pods-DNApp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E1B8CFC2E67BAA86C2B9A58F950804C /* Pods-DNApp-dummy.m */; };
-		0643EB86243A50151583B73242067FC6 /* CSBlurView.h in Headers */ = {isa = PBXBuildFile; fileRef = D50E6E7C8D3629167DCB000291B7BD5D /* CSBlurView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1DDFC6D6567411E8E74E57D59F3D5E7B /* UITextView+TCCustomFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E5A7A12270E01802C353E47B9658660 /* UITextView+TCCustomFont.m */; };
-		2FAD801C5CBB32162AD255D082DF137C /* CSNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3318ADC101AB01BE0B14D19342242EB0 /* CSNavigationController.m */; };
-		4516045CDD9AB4E7D66479409E4EDD94 /* UITextView+TCCustomFont.h in Headers */ = {isa = PBXBuildFile; fileRef = 86043B582EC9EA099DD5BB4234A1DD20 /* UITextView+TCCustomFont.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4933F8C4372E4EBAC3BA2092E61F5676 /* CSAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B55FD4DA81B9A07758F59A8DCB174B7 /* CSAnimationView.m */; };
-		49ECAC0B604C2DFE1049B84BC299A212 /* CSAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E47EFE5C582015448592581E84EA05C /* CSAnimation.m */; };
-		4ADFEE3C5DA2EC8C39AC40F7D32F6AA8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE9F3BE1C28913A7B1916EAAEB6115B /* Foundation.framework */; };
-		4C6A807352AD3CA390F89FAAD3F9B523 /* Canvas.h in Headers */ = {isa = PBXBuildFile; fileRef = 944A1327870D7908F3D8E58B6B3099FF /* Canvas.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		55887E6F0CE8008E33902EFA5168435B /* UITextField+TCCustomFont.h in Headers */ = {isa = PBXBuildFile; fileRef = 03A1D1E0DEE829F0CAA4A3030D7427C1 /* UITextField+TCCustomFont.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F01FB04ED48CC70113C43AE621394D9 /* Canvas-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D70AE87AB681852C08B542939DBE7168 /* Canvas-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		672489095AD81B639E5425324DD097E3 /* UIButton+TCCustomFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 997CEFED4498E1540A377F44BB680BE8 /* UIButton+TCCustomFont.m */; };
-		67B83EF1CE623D472A818F785C83028B /* UITextField+PlaceholderColor.h in Headers */ = {isa = PBXBuildFile; fileRef = AD845A10F0A5E34DBB26D126C9C7B559 /* UITextField+PlaceholderColor.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6815883279379A4EE1DFA49326622A09 /* CSAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 0E8337E5C032AD7A09FD5AF0CA74B1E8 /* CSAnimation.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		73822E195861BBBE89470AC6081AB8C5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE9F3BE1C28913A7B1916EAAEB6115B /* Foundation.framework */; };
-		7EC91991A509FF85C7A8617FDCBB3C2A /* UITextField+TCCustomFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 1111729DA156FCA3CC33EAA7A298A6E3 /* UITextField+TCCustomFont.m */; };
-		911E6CB35F7AC669494CE47FFCEDDBD6 /* UINavigationBar+TCCustomFont.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D6E12BD7DDD33492422C265DBB37C25 /* UINavigationBar+TCCustomFont.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		92AE130773DA67356F43CFDF02D2BD8A /* UITextField+PlaceholderColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 830EEC5D496E19F7A4C4F345BFFC26CE /* UITextField+PlaceholderColor.m */; };
-		A44C48D877C4552CEDD243E2A1C803DC /* UILabel+TCCustomFont.h in Headers */ = {isa = PBXBuildFile; fileRef = 953308BB4D545B80CD93BBAE7FAE36B3 /* UILabel+TCCustomFont.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		AEF5857E0F6178C33075CAD8EFA75C4D /* CSNavigationController.h in Headers */ = {isa = PBXBuildFile; fileRef = CF05A5853F26D5FC1D5A4EC05752054C /* CSNavigationController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		AEF92EFA96A36C51BE6D00677F9D148A /* CSBlurView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F66506AF499D1BE4DFFFCA9EBD0B3D0 /* CSBlurView.m */; };
-		C2E016DB3C728FFC2EEDECAEE9B03651 /* Pods-DNApp-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E4F47A900F2A862D5594C10857EC2150 /* Pods-DNApp-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3CE9C79B626BAD0944160C1D3266984 /* Canvas-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 00AFE8529FD0D2C538E91C3D5987BA32 /* Canvas-dummy.m */; };
-		D54CBAFD59E4A0CD4192750749217820 /* UIButton+TCCustomFont.h in Headers */ = {isa = PBXBuildFile; fileRef = 6033CD1E3593BD7E0F24831024317584 /* UIButton+TCCustomFont.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DC6AD719B7979BDA751CA946616C01B7 /* UINavigationBar+TCCustomFont.m in Sources */ = {isa = PBXBuildFile; fileRef = C698B04996933DC4A9897B129E646F15 /* UINavigationBar+TCCustomFont.m */; };
-		F5036BDFD4BD2511612E6B368B69F596 /* UILabel+TCCustomFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EB88979FC56341BC827AA5ED091063A /* UILabel+TCCustomFont.m */; };
-		FA8A0A5EC5C538C9B1A3D9875ABF62DE /* CSAnimationView.h in Headers */ = {isa = PBXBuildFile; fileRef = CA406EA0A0584033045B5BE4CB8E4CE7 /* CSAnimationView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0B0A79B51C6FB2069885D536AB3BC647 /* CSNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0EA9C1C621F826C63C993724C4B5ABB /* CSNavigationController.m */; };
+		10A699027D3B196D7FE23DEEA700B170 /* TPKeyboardAvoiding-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D9B2A175FEFA8AE66452594D127E5414 /* TPKeyboardAvoiding-dummy.m */; };
+		1186A1E7312C16E21493887F91169837 /* UIButton+TCCustomFont.h in Headers */ = {isa = PBXBuildFile; fileRef = F0BBC4CF022F93FFA9DE482C377956B8 /* UIButton+TCCustomFont.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		293261DD4CA5A85533412442AF8E7855 /* UITextField+PlaceholderColor.h in Headers */ = {isa = PBXBuildFile; fileRef = 6C97BEC3811456942FB4ACE6AE8E1D66 /* UITextField+PlaceholderColor.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2BEC1549A86BFA0DB3A1CA411DD68B31 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E2364F3A42961FF884550E2C608866C /* Foundation.framework */; };
+		3A41B87D5025D01A0846AB2FC0026335 /* TPKeyboardAvoidingScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = B38735DC761E7EAE5EC1C7CBC9672AA9 /* TPKeyboardAvoidingScrollView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		3D6E4155D06EAB641C6172D889787241 /* CSBlurView.h in Headers */ = {isa = PBXBuildFile; fileRef = 0EACBB2D0DD24EA295A838AA2F8A26A8 /* CSBlurView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3ED0225C3C66A8E1365EA8B43F2F518D /* UIScrollView+TPKeyboardAvoidingAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 6967D7EEFAE3B6532D6B771DDCAD0649 /* UIScrollView+TPKeyboardAvoidingAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		430705D9FFE9BB62C97BC5F8E379D163 /* Pods-DNApp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D96EE419E7AB135F627EF7D2F4285DAA /* Pods-DNApp-dummy.m */; };
+		4D43D38C057E7FE19B4F6E1E56EFC5F8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E2364F3A42961FF884550E2C608866C /* Foundation.framework */; };
+		4F534F1288C431DEEC804DBB04813717 /* UINavigationBar+TCCustomFont.h in Headers */ = {isa = PBXBuildFile; fileRef = 825E99C6B9C89EE403531D0E8928D3B7 /* UINavigationBar+TCCustomFont.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4FF94C09634969673428E2F89EC1F53B /* TPKeyboardAvoidingCollectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = 85409B8C00ECA5337F4FB19178C3DDD3 /* TPKeyboardAvoidingCollectionView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		57C9F3DA68E658E662E0E267BAAD62A9 /* UINavigationBar+TCCustomFont.m in Sources */ = {isa = PBXBuildFile; fileRef = D973282E09851FC019FA6B6A1A66CE41 /* UINavigationBar+TCCustomFont.m */; };
+		645AC040274390F59C3B435C11C4692F /* TPKeyboardAvoidingCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 98C13F28CE510BE25A4003FD8D78BA6F /* TPKeyboardAvoidingCollectionView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		687EBDCA7690F2F0BAF3D8F484072AEA /* CSAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = A4FE5B6363E34835648A54C0DD31476F /* CSAnimation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		72D352B825697E452C2D280BAE2A7D63 /* TPKeyboardAvoidingTableView.h in Headers */ = {isa = PBXBuildFile; fileRef = D2F4D8F371DE28D9441E73BC8FA0721A /* TPKeyboardAvoidingTableView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		74B4A274AD905965A0B34050A1CE4E29 /* CSNavigationController.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D7499EFF3CAFA7D6993E777EB2913AE /* CSNavigationController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		74C38C1CE4DB446F813EA2DB585CFEA4 /* UITextField+PlaceholderColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 2317C879EDB0893EF3FC66BD3A1D6F54 /* UITextField+PlaceholderColor.m */; };
+		7984606324B18BA066F6B21BE1EADE15 /* CSAnimationView.h in Headers */ = {isa = PBXBuildFile; fileRef = AE207BBF38A774116215FA09BD302FD3 /* CSAnimationView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7C818700688E55589C104250140A1D6D /* UITextField+TCCustomFont.h in Headers */ = {isa = PBXBuildFile; fileRef = 709A5219FA24F2BE80F37E0AC7DA65E7 /* UITextField+TCCustomFont.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		81C6BEA4E8023D5A267007AD713940C1 /* UITextView+TCCustomFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 98687625B04FB783E0A23EB0703CEADF /* UITextView+TCCustomFont.m */; };
+		86575FC52B6D94F2F8FA641C9C9B190D /* Canvas.h in Headers */ = {isa = PBXBuildFile; fileRef = A62ADDEE6B73EF8CC4019605581BD2DD /* Canvas.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		894F16254AC1F4E0EADF8E38500292D4 /* UILabel+TCCustomFont.m in Sources */ = {isa = PBXBuildFile; fileRef = E0DF66B64A6CC978CDCE01533200440C /* UILabel+TCCustomFont.m */; };
+		8B08E5566E149CCD9097C4A3CD832C8C /* CSBlurView.m in Sources */ = {isa = PBXBuildFile; fileRef = B00229F1FB77F3E9502995E6959BA392 /* CSBlurView.m */; };
+		A11558B9E6F654D0057187537D2703E6 /* UILabel+TCCustomFont.h in Headers */ = {isa = PBXBuildFile; fileRef = A354A7C1CD434EB920DB9D348744A5C0 /* UILabel+TCCustomFont.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A655784924E94539EB4EC3B40FDA778E /* TPKeyboardAvoidingTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 334DCC4E747CAA17E57FC86618E61751 /* TPKeyboardAvoidingTableView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B7EAE728A28A17F85CE07A055CCBF003 /* TPKeyboardAvoiding-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EBA14BE7E619A8C395EE1718E0290D2D /* TPKeyboardAvoiding-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BA478C2076932AC6920C09CDA5CF688D /* Canvas-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B888DBEFA768C046AA3543CC975359AD /* Canvas-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C33D1161D33085F5F7AFBD3235A8A2CE /* UITextField+TCCustomFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 5DB756B72678315DDCA4C6A8852D3238 /* UITextField+TCCustomFont.m */; };
+		C58030B45ACDACADFF4C0C9DB91E363D /* UIScrollView+TPKeyboardAvoidingAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BD32488411718CFCB463D06435C3EC9 /* UIScrollView+TPKeyboardAvoidingAdditions.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		CFC46AC78FCDC0E3A861609E45F31897 /* CSAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C7E14B80DCE1C149400712DF618A45D /* CSAnimationView.m */; };
+		D18A96BE86E4C7851A5BC825B9BD6C64 /* Pods-DNApp-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 86A2D720ABC1953AE05C6668F7C8BD9B /* Pods-DNApp-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DB883B5080EEA4BCEFA05F02CE945C36 /* Canvas-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C168EFF4F3E906CDDBF15C9CC3657EB0 /* Canvas-dummy.m */; };
+		E1E6C5B00C2A1F32D0C0AAC0A9A51CB8 /* CSAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = C50D537F57CB1D13A87EB8AD9D52F01B /* CSAnimation.m */; };
+		E777BD669DBF7E5649063757BCC780C6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E2364F3A42961FF884550E2C608866C /* Foundation.framework */; };
+		F04B0E82EBEF55164269CAE899A3C7CA /* UITextView+TCCustomFont.h in Headers */ = {isa = PBXBuildFile; fileRef = F3D7ADAFBA100F9C91ED2650A5CA9299 /* UITextView+TCCustomFont.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F602B7525568F2550E83319C379B7CA6 /* UIButton+TCCustomFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 69BBE3AEC37D735A2496446A7C7128DD /* UIButton+TCCustomFont.m */; };
+		FA9205E06D63A11FD8F5A6562AFC655B /* TPKeyboardAvoidingScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AD0206FAFCF0A27119085C852AAD3F3 /* TPKeyboardAvoidingScrollView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		B6CCB3090F2E1B38A067B10752AFD442 /* PBXContainerItemProxy */ = {
+		5A4E3C22B9DB17A2B561DA7B30B8684A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 796D3FB08855B0BA7E78E124085017C5;
+			remoteGlobalIDString = EC19C6B32D8D1845093C2F36A85BF697;
+			remoteInfo = TPKeyboardAvoiding;
+		};
+		C63C3EC4F78D3C76CDCDEA97AEA7FC05 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B33D332C620E18A64E2F28693A88F67C;
 			remoteInfo = Canvas;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00AFE8529FD0D2C538E91C3D5987BA32 /* Canvas-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Canvas-dummy.m"; sourceTree = "<group>"; };
-		03A1D1E0DEE829F0CAA4A3030D7427C1 /* UITextField+TCCustomFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextField+TCCustomFont.h"; path = "CanvasLibrary/UITextField+TCCustomFont.h"; sourceTree = "<group>"; };
-		0B55FD4DA81B9A07758F59A8DCB174B7 /* CSAnimationView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CSAnimationView.m; path = CanvasLibrary/CSAnimationView.m; sourceTree = "<group>"; };
-		0E1B8CFC2E67BAA86C2B9A58F950804C /* Pods-DNApp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DNApp-dummy.m"; sourceTree = "<group>"; };
-		0E8337E5C032AD7A09FD5AF0CA74B1E8 /* CSAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CSAnimation.h; path = CanvasLibrary/CSAnimation.h; sourceTree = "<group>"; };
-		1111729DA156FCA3CC33EAA7A298A6E3 /* UITextField+TCCustomFont.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextField+TCCustomFont.m"; path = "CanvasLibrary/UITextField+TCCustomFont.m"; sourceTree = "<group>"; };
+		06B9D0ED2BDB1BA01E99520A42C34A6A /* Pods-DNApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DNApp.release.xcconfig"; sourceTree = "<group>"; };
+		0EACBB2D0DD24EA295A838AA2F8A26A8 /* CSBlurView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CSBlurView.h; path = CanvasLibrary/CSBlurView.h; sourceTree = "<group>"; };
+		11D25767F5DF10A70774908B0038E341 /* Canvas-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Canvas-prefix.pch"; sourceTree = "<group>"; };
 		12F12A33E4461E76B11D7EF013B7C190 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1729B1EBAFB3F342E17BBD83762920D4 /* Pods-DNApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DNApp.debug.xcconfig"; sourceTree = "<group>"; };
-		1E47EFE5C582015448592581E84EA05C /* CSAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CSAnimation.m; path = CanvasLibrary/CSAnimation.m; sourceTree = "<group>"; };
-		3318ADC101AB01BE0B14D19342242EB0 /* CSNavigationController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CSNavigationController.m; path = CanvasLibrary/CSNavigationController.m; sourceTree = "<group>"; };
-		3D6E12BD7DDD33492422C265DBB37C25 /* UINavigationBar+TCCustomFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UINavigationBar+TCCustomFont.h"; path = "CanvasLibrary/UINavigationBar+TCCustomFont.h"; sourceTree = "<group>"; };
-		3E5A7A12270E01802C353E47B9658660 /* UITextView+TCCustomFont.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextView+TCCustomFont.m"; path = "CanvasLibrary/UITextView+TCCustomFont.m"; sourceTree = "<group>"; };
+		1D7499EFF3CAFA7D6993E777EB2913AE /* CSNavigationController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CSNavigationController.h; path = CanvasLibrary/CSNavigationController.h; sourceTree = "<group>"; };
+		2317C879EDB0893EF3FC66BD3A1D6F54 /* UITextField+PlaceholderColor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextField+PlaceholderColor.m"; path = "CanvasLibrary/UITextField+PlaceholderColor.m"; sourceTree = "<group>"; };
+		2ED45AD2772D907E986EA18DB0D973D5 /* Canvas.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Canvas.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		334DCC4E747CAA17E57FC86618E61751 /* TPKeyboardAvoidingTableView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TPKeyboardAvoidingTableView.m; path = TPKeyboardAvoiding/TPKeyboardAvoidingTableView.m; sourceTree = "<group>"; };
 		4A1E2FF6E50A5FB2589AC6FB0E9B7E1F /* Pods-DNApp-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DNApp-acknowledgements.markdown"; sourceTree = "<group>"; };
-		4D655FA74B8F4BE96D1201FF89C0BFCB /* Canvas-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Canvas-Private.xcconfig"; sourceTree = "<group>"; };
-		4F66506AF499D1BE4DFFFCA9EBD0B3D0 /* CSBlurView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CSBlurView.m; path = CanvasLibrary/CSBlurView.m; sourceTree = "<group>"; };
-		52A20C8E5E2F56CBECA8F58FF81640BD /* Canvas.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Canvas.modulemap; sourceTree = "<group>"; };
+		4AD0206FAFCF0A27119085C852AAD3F3 /* TPKeyboardAvoidingScrollView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TPKeyboardAvoidingScrollView.h; path = TPKeyboardAvoiding/TPKeyboardAvoidingScrollView.h; sourceTree = "<group>"; };
+		4FCDED621DF5C2F8C6F9B34FB68D2155 /* TPKeyboardAvoiding-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "TPKeyboardAvoiding-Private.xcconfig"; sourceTree = "<group>"; };
+		50477236FCCD232CAEE46F350EBED15E /* TPKeyboardAvoiding-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TPKeyboardAvoiding-prefix.pch"; sourceTree = "<group>"; };
 		5335C3BF3763D56EECC91BECF01A487A /* Pods-DNApp-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DNApp-frameworks.sh"; sourceTree = "<group>"; };
-		6033CD1E3593BD7E0F24831024317584 /* UIButton+TCCustomFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+TCCustomFont.h"; path = "CanvasLibrary/UIButton+TCCustomFont.h"; sourceTree = "<group>"; };
-		6F2C46C58D0CB5CA735A05EC0DC61F49 /* Canvas-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Canvas-prefix.pch"; sourceTree = "<group>"; };
-		7BE9F3BE1C28913A7B1916EAAEB6115B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		56ED190BF485EB9CBBC7C1B5F2AB8E03 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5BD32488411718CFCB463D06435C3EC9 /* UIScrollView+TPKeyboardAvoidingAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+TPKeyboardAvoidingAdditions.m"; path = "TPKeyboardAvoiding/UIScrollView+TPKeyboardAvoidingAdditions.m"; sourceTree = "<group>"; };
+		5DB756B72678315DDCA4C6A8852D3238 /* UITextField+TCCustomFont.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextField+TCCustomFont.m"; path = "CanvasLibrary/UITextField+TCCustomFont.m"; sourceTree = "<group>"; };
+		6967D7EEFAE3B6532D6B771DDCAD0649 /* UIScrollView+TPKeyboardAvoidingAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+TPKeyboardAvoidingAdditions.h"; path = "TPKeyboardAvoiding/UIScrollView+TPKeyboardAvoidingAdditions.h"; sourceTree = "<group>"; };
+		69BBE3AEC37D735A2496446A7C7128DD /* UIButton+TCCustomFont.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+TCCustomFont.m"; path = "CanvasLibrary/UIButton+TCCustomFont.m"; sourceTree = "<group>"; };
+		69BD53B70A1F76CEC32D25F642B7C8EC /* Canvas-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Canvas-Private.xcconfig"; sourceTree = "<group>"; };
+		6C97BEC3811456942FB4ACE6AE8E1D66 /* UITextField+PlaceholderColor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextField+PlaceholderColor.h"; path = "CanvasLibrary/UITextField+PlaceholderColor.h"; sourceTree = "<group>"; };
+		6E2364F3A42961FF884550E2C608866C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		709A5219FA24F2BE80F37E0AC7DA65E7 /* UITextField+TCCustomFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextField+TCCustomFont.h"; path = "CanvasLibrary/UITextField+TCCustomFont.h"; sourceTree = "<group>"; };
+		75172959D793AEF9EB21374FBE811CD2 /* Pods-DNApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DNApp.debug.xcconfig"; sourceTree = "<group>"; };
 		7DB0DC0F72C084967FA4679CA5D882E7 /* Pods-DNApp-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DNApp-acknowledgements.plist"; sourceTree = "<group>"; };
-		7EB88979FC56341BC827AA5ED091063A /* UILabel+TCCustomFont.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UILabel+TCCustomFont.m"; path = "CanvasLibrary/UILabel+TCCustomFont.m"; sourceTree = "<group>"; };
-		830EEC5D496E19F7A4C4F345BFFC26CE /* UITextField+PlaceholderColor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextField+PlaceholderColor.m"; path = "CanvasLibrary/UITextField+PlaceholderColor.m"; sourceTree = "<group>"; };
-		86043B582EC9EA099DD5BB4234A1DD20 /* UITextView+TCCustomFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextView+TCCustomFont.h"; path = "CanvasLibrary/UITextView+TCCustomFont.h"; sourceTree = "<group>"; };
-		8891FC7FCF3AE1EE6808063A68A3132B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		944A1327870D7908F3D8E58B6B3099FF /* Canvas.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Canvas.h; path = CanvasLibrary/Canvas.h; sourceTree = "<group>"; };
-		953308BB4D545B80CD93BBAE7FAE36B3 /* UILabel+TCCustomFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UILabel+TCCustomFont.h"; path = "CanvasLibrary/UILabel+TCCustomFont.h"; sourceTree = "<group>"; };
-		997CEFED4498E1540A377F44BB680BE8 /* UIButton+TCCustomFont.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+TCCustomFont.m"; path = "CanvasLibrary/UIButton+TCCustomFont.m"; sourceTree = "<group>"; };
+		80245DA9C37D5DEA6E38063FBAEEB86F /* Pods_DNApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DNApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		825E99C6B9C89EE403531D0E8928D3B7 /* UINavigationBar+TCCustomFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UINavigationBar+TCCustomFont.h"; path = "CanvasLibrary/UINavigationBar+TCCustomFont.h"; sourceTree = "<group>"; };
+		85409B8C00ECA5337F4FB19178C3DDD3 /* TPKeyboardAvoidingCollectionView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TPKeyboardAvoidingCollectionView.h; path = TPKeyboardAvoiding/TPKeyboardAvoidingCollectionView.h; sourceTree = "<group>"; };
+		86A2D720ABC1953AE05C6668F7C8BD9B /* Pods-DNApp-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DNApp-umbrella.h"; sourceTree = "<group>"; };
+		98687625B04FB783E0A23EB0703CEADF /* UITextView+TCCustomFont.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextView+TCCustomFont.m"; path = "CanvasLibrary/UITextView+TCCustomFont.m"; sourceTree = "<group>"; };
+		98C13F28CE510BE25A4003FD8D78BA6F /* TPKeyboardAvoidingCollectionView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TPKeyboardAvoidingCollectionView.m; path = TPKeyboardAvoiding/TPKeyboardAvoidingCollectionView.m; sourceTree = "<group>"; };
+		9C7E14B80DCE1C149400712DF618A45D /* CSAnimationView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CSAnimationView.m; path = CanvasLibrary/CSAnimationView.m; sourceTree = "<group>"; };
+		A354A7C1CD434EB920DB9D348744A5C0 /* UILabel+TCCustomFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UILabel+TCCustomFont.h"; path = "CanvasLibrary/UILabel+TCCustomFont.h"; sourceTree = "<group>"; };
+		A4FE5B6363E34835648A54C0DD31476F /* CSAnimation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CSAnimation.h; path = CanvasLibrary/CSAnimation.h; sourceTree = "<group>"; };
+		A62ADDEE6B73EF8CC4019605581BD2DD /* Canvas.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Canvas.h; path = CanvasLibrary/Canvas.h; sourceTree = "<group>"; };
 		A89DC9B7542A19A94B42D3DF16F62215 /* Pods-DNApp-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DNApp-resources.sh"; sourceTree = "<group>"; };
-		AD845A10F0A5E34DBB26D126C9C7B559 /* UITextField+PlaceholderColor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextField+PlaceholderColor.h"; path = "CanvasLibrary/UITextField+PlaceholderColor.h"; sourceTree = "<group>"; };
+		AE207BBF38A774116215FA09BD302FD3 /* CSAnimationView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CSAnimationView.h; path = CanvasLibrary/CSAnimationView.h; sourceTree = "<group>"; };
+		B00229F1FB77F3E9502995E6959BA392 /* CSBlurView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CSBlurView.m; path = CanvasLibrary/CSBlurView.m; sourceTree = "<group>"; };
+		B38735DC761E7EAE5EC1C7CBC9672AA9 /* TPKeyboardAvoidingScrollView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TPKeyboardAvoidingScrollView.m; path = TPKeyboardAvoiding/TPKeyboardAvoidingScrollView.m; sourceTree = "<group>"; };
+		B888DBEFA768C046AA3543CC975359AD /* Canvas-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Canvas-umbrella.h"; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		C4570F77DDF6CA93DBDAE3AB401F8DC8 /* Pods_DNApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DNApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C52F73FF4594021DD7730255DA698D01 /* Canvas.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Canvas.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C698B04996933DC4A9897B129E646F15 /* UINavigationBar+TCCustomFont.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UINavigationBar+TCCustomFont.m"; path = "CanvasLibrary/UINavigationBar+TCCustomFont.m"; sourceTree = "<group>"; };
-		CA406EA0A0584033045B5BE4CB8E4CE7 /* CSAnimationView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CSAnimationView.h; path = CanvasLibrary/CSAnimationView.h; sourceTree = "<group>"; };
-		CF05A5853F26D5FC1D5A4EC05752054C /* CSNavigationController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CSNavigationController.h; path = CanvasLibrary/CSNavigationController.h; sourceTree = "<group>"; };
-		D50E6E7C8D3629167DCB000291B7BD5D /* CSBlurView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CSBlurView.h; path = CanvasLibrary/CSBlurView.h; sourceTree = "<group>"; };
-		D70AE87AB681852C08B542939DBE7168 /* Canvas-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Canvas-umbrella.h"; sourceTree = "<group>"; };
-		D90D9399405737BA9AA2AA7906FDF5B1 /* Canvas.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Canvas.xcconfig; sourceTree = "<group>"; };
-		E03A8A3F8B96B8F37574EEFA6E7A0CFE /* Pods-DNApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DNApp.release.xcconfig"; sourceTree = "<group>"; };
-		E4F47A900F2A862D5594C10857EC2150 /* Pods-DNApp-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DNApp-umbrella.h"; sourceTree = "<group>"; };
+		C168EFF4F3E906CDDBF15C9CC3657EB0 /* Canvas-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Canvas-dummy.m"; sourceTree = "<group>"; };
+		C2B2CB943FBBD7DEF348E95DB311AC4D /* Canvas.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Canvas.xcconfig; sourceTree = "<group>"; };
+		C50D537F57CB1D13A87EB8AD9D52F01B /* CSAnimation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CSAnimation.m; path = CanvasLibrary/CSAnimation.m; sourceTree = "<group>"; };
+		CA073352509A0F04C5195D50B55A7787 /* TPKeyboardAvoiding.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TPKeyboardAvoiding.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2F4D8F371DE28D9441E73BC8FA0721A /* TPKeyboardAvoidingTableView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TPKeyboardAvoidingTableView.h; path = TPKeyboardAvoiding/TPKeyboardAvoidingTableView.h; sourceTree = "<group>"; };
+		D7B17E4F14A1E3008A6A12A252B4B5A7 /* TPKeyboardAvoiding.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = TPKeyboardAvoiding.modulemap; sourceTree = "<group>"; };
+		D96EE419E7AB135F627EF7D2F4285DAA /* Pods-DNApp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DNApp-dummy.m"; sourceTree = "<group>"; };
+		D973282E09851FC019FA6B6A1A66CE41 /* UINavigationBar+TCCustomFont.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UINavigationBar+TCCustomFont.m"; path = "CanvasLibrary/UINavigationBar+TCCustomFont.m"; sourceTree = "<group>"; };
+		D9B2A175FEFA8AE66452594D127E5414 /* TPKeyboardAvoiding-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TPKeyboardAvoiding-dummy.m"; sourceTree = "<group>"; };
+		E0DF66B64A6CC978CDCE01533200440C /* UILabel+TCCustomFont.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UILabel+TCCustomFont.m"; path = "CanvasLibrary/UILabel+TCCustomFont.m"; sourceTree = "<group>"; };
 		E6F95D971B4C1FE99B1D2CEE69904915 /* Pods-DNApp.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-DNApp.modulemap"; sourceTree = "<group>"; };
+		EBA14BE7E619A8C395EE1718E0290D2D /* TPKeyboardAvoiding-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TPKeyboardAvoiding-umbrella.h"; sourceTree = "<group>"; };
+		F0BBC4CF022F93FFA9DE482C377956B8 /* UIButton+TCCustomFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+TCCustomFont.h"; path = "CanvasLibrary/UIButton+TCCustomFont.h"; sourceTree = "<group>"; };
+		F0EA9C1C621F826C63C993724C4B5ABB /* CSNavigationController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CSNavigationController.m; path = CanvasLibrary/CSNavigationController.m; sourceTree = "<group>"; };
+		F3D7ADAFBA100F9C91ED2650A5CA9299 /* UITextView+TCCustomFont.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextView+TCCustomFont.h"; path = "CanvasLibrary/UITextView+TCCustomFont.h"; sourceTree = "<group>"; };
+		F4D672C54AFA12E8B61C6CD5A311A72D /* Canvas.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Canvas.modulemap; sourceTree = "<group>"; };
+		F7B6334C5817D45FF68B2AFB9D4A0F66 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F81F82541B88396C25326A11E8317CFC /* TPKeyboardAvoiding.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TPKeyboardAvoiding.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		0119E386A5137DD09FFF5D8AAD247359 /* Frameworks */ = {
+		02FF19B38679860659416662DFAAA38E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4ADFEE3C5DA2EC8C39AC40F7D32F6AA8 /* Foundation.framework in Frameworks */,
+				4D43D38C057E7FE19B4F6E1E56EFC5F8 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		47ED26F090E2433A11E8333953293211 /* Frameworks */ = {
+		05AE5C0371A194B9AB3F43A4A34A0876 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				73822E195861BBBE89470AC6081AB8C5 /* Foundation.framework in Frameworks */,
+				E777BD669DBF7E5649063757BCC780C6 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BF78EBC391B8982CFA0AB180925AAC3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2BEC1549A86BFA0DB3A1CA411DD68B31 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,21 +161,6 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		0F28416EE05B9EC2BB8211F32A83A081 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				52A20C8E5E2F56CBECA8F58FF81640BD /* Canvas.modulemap */,
-				D90D9399405737BA9AA2AA7906FDF5B1 /* Canvas.xcconfig */,
-				4D655FA74B8F4BE96D1201FF89C0BFCB /* Canvas-Private.xcconfig */,
-				00AFE8529FD0D2C538E91C3D5987BA32 /* Canvas-dummy.m */,
-				6F2C46C58D0CB5CA735A05EC0DC61F49 /* Canvas-prefix.pch */,
-				D70AE87AB681852C08B542939DBE7168 /* Canvas-umbrella.h */,
-				8891FC7FCF3AE1EE6808063A68A3132B /* Info.plist */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/Canvas";
-			sourceTree = "<group>";
-		};
 		178344F0CB8D2A87BA2E16CBF3E7CF0B /* Pods-DNApp */ = {
 			isa = PBXGroup;
 			children = (
@@ -141,23 +168,54 @@
 				E6F95D971B4C1FE99B1D2CEE69904915 /* Pods-DNApp.modulemap */,
 				4A1E2FF6E50A5FB2589AC6FB0E9B7E1F /* Pods-DNApp-acknowledgements.markdown */,
 				7DB0DC0F72C084967FA4679CA5D882E7 /* Pods-DNApp-acknowledgements.plist */,
-				0E1B8CFC2E67BAA86C2B9A58F950804C /* Pods-DNApp-dummy.m */,
+				D96EE419E7AB135F627EF7D2F4285DAA /* Pods-DNApp-dummy.m */,
 				5335C3BF3763D56EECC91BECF01A487A /* Pods-DNApp-frameworks.sh */,
 				A89DC9B7542A19A94B42D3DF16F62215 /* Pods-DNApp-resources.sh */,
-				E4F47A900F2A862D5594C10857EC2150 /* Pods-DNApp-umbrella.h */,
-				1729B1EBAFB3F342E17BBD83762920D4 /* Pods-DNApp.debug.xcconfig */,
-				E03A8A3F8B96B8F37574EEFA6E7A0CFE /* Pods-DNApp.release.xcconfig */,
+				86A2D720ABC1953AE05C6668F7C8BD9B /* Pods-DNApp-umbrella.h */,
+				75172959D793AEF9EB21374FBE811CD2 /* Pods-DNApp.debug.xcconfig */,
+				06B9D0ED2BDB1BA01E99520A42C34A6A /* Pods-DNApp.release.xcconfig */,
 			);
 			name = "Pods-DNApp";
 			path = "Target Support Files/Pods-DNApp";
 			sourceTree = "<group>";
 		};
+		217218A10E0403D6D0802E85E0AC976A /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				56ED190BF485EB9CBBC7C1B5F2AB8E03 /* Info.plist */,
+				D7B17E4F14A1E3008A6A12A252B4B5A7 /* TPKeyboardAvoiding.modulemap */,
+				F81F82541B88396C25326A11E8317CFC /* TPKeyboardAvoiding.xcconfig */,
+				4FCDED621DF5C2F8C6F9B34FB68D2155 /* TPKeyboardAvoiding-Private.xcconfig */,
+				D9B2A175FEFA8AE66452594D127E5414 /* TPKeyboardAvoiding-dummy.m */,
+				50477236FCCD232CAEE46F350EBED15E /* TPKeyboardAvoiding-prefix.pch */,
+				EBA14BE7E619A8C395EE1718E0290D2D /* TPKeyboardAvoiding-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/TPKeyboardAvoiding";
+			sourceTree = "<group>";
+		};
 		53F661C0CA7190D2CF05023FB33D61E4 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				7BE9F3BE1C28913A7B1916EAAEB6115B /* Foundation.framework */,
+				6E2364F3A42961FF884550E2C608866C /* Foundation.framework */,
 			);
 			name = iOS;
+			sourceTree = "<group>";
+		};
+		61EC93A64DC105241D492F8F390953EF /* TPKeyboardAvoiding */ = {
+			isa = PBXGroup;
+			children = (
+				85409B8C00ECA5337F4FB19178C3DDD3 /* TPKeyboardAvoidingCollectionView.h */,
+				98C13F28CE510BE25A4003FD8D78BA6F /* TPKeyboardAvoidingCollectionView.m */,
+				4AD0206FAFCF0A27119085C852AAD3F3 /* TPKeyboardAvoidingScrollView.h */,
+				B38735DC761E7EAE5EC1C7CBC9672AA9 /* TPKeyboardAvoidingScrollView.m */,
+				D2F4D8F371DE28D9441E73BC8FA0721A /* TPKeyboardAvoidingTableView.h */,
+				334DCC4E747CAA17E57FC86618E61751 /* TPKeyboardAvoidingTableView.m */,
+				6967D7EEFAE3B6532D6B771DDCAD0649 /* UIScrollView+TPKeyboardAvoidingAdditions.h */,
+				5BD32488411718CFCB463D06435C3EC9 /* UIScrollView+TPKeyboardAvoidingAdditions.m */,
+				217218A10E0403D6D0802E85E0AC976A /* Support Files */,
+			);
+			path = TPKeyboardAvoiding;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -165,10 +223,25 @@
 			children = (
 				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				F1C78F9585DEF83568C1DDD945EBD0E5 /* Pods */,
+				F89EC42DEE593B657CEAB7A8A120E963 /* Pods */,
 				CCA510CFBEA2D207524CDA0D73C3B561 /* Products */,
 				0301D714F0B064ABB7FB7FA487D359D8 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		875DCEC39D56EA470F4539798B37AA05 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				F4D672C54AFA12E8B61C6CD5A311A72D /* Canvas.modulemap */,
+				C2B2CB943FBBD7DEF348E95DB311AC4D /* Canvas.xcconfig */,
+				69BD53B70A1F76CEC32D25F642B7C8EC /* Canvas-Private.xcconfig */,
+				C168EFF4F3E906CDDBF15C9CC3657EB0 /* Canvas-dummy.m */,
+				11D25767F5DF10A70774908B0038E341 /* Canvas-prefix.pch */,
+				B888DBEFA768C046AA3543CC975359AD /* Canvas-umbrella.h */,
+				F7B6334C5817D45FF68B2AFB9D4A0F66 /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/Canvas";
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
@@ -182,45 +255,47 @@
 		CCA510CFBEA2D207524CDA0D73C3B561 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C52F73FF4594021DD7730255DA698D01 /* Canvas.framework */,
-				C4570F77DDF6CA93DBDAE3AB401F8DC8 /* Pods_DNApp.framework */,
+				2ED45AD2772D907E986EA18DB0D973D5 /* Canvas.framework */,
+				80245DA9C37D5DEA6E38063FBAEEB86F /* Pods_DNApp.framework */,
+				CA073352509A0F04C5195D50B55A7787 /* TPKeyboardAvoiding.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D8205401A9509D74F1159C62D6446F3F /* Canvas */ = {
+		F298CF9F7C9A5E38ED6D251BAAF5E5F4 /* Canvas */ = {
 			isa = PBXGroup;
 			children = (
-				0E8337E5C032AD7A09FD5AF0CA74B1E8 /* CSAnimation.h */,
-				1E47EFE5C582015448592581E84EA05C /* CSAnimation.m */,
-				CA406EA0A0584033045B5BE4CB8E4CE7 /* CSAnimationView.h */,
-				0B55FD4DA81B9A07758F59A8DCB174B7 /* CSAnimationView.m */,
-				D50E6E7C8D3629167DCB000291B7BD5D /* CSBlurView.h */,
-				4F66506AF499D1BE4DFFFCA9EBD0B3D0 /* CSBlurView.m */,
-				CF05A5853F26D5FC1D5A4EC05752054C /* CSNavigationController.h */,
-				3318ADC101AB01BE0B14D19342242EB0 /* CSNavigationController.m */,
-				944A1327870D7908F3D8E58B6B3099FF /* Canvas.h */,
-				6033CD1E3593BD7E0F24831024317584 /* UIButton+TCCustomFont.h */,
-				997CEFED4498E1540A377F44BB680BE8 /* UIButton+TCCustomFont.m */,
-				953308BB4D545B80CD93BBAE7FAE36B3 /* UILabel+TCCustomFont.h */,
-				7EB88979FC56341BC827AA5ED091063A /* UILabel+TCCustomFont.m */,
-				3D6E12BD7DDD33492422C265DBB37C25 /* UINavigationBar+TCCustomFont.h */,
-				C698B04996933DC4A9897B129E646F15 /* UINavigationBar+TCCustomFont.m */,
-				AD845A10F0A5E34DBB26D126C9C7B559 /* UITextField+PlaceholderColor.h */,
-				830EEC5D496E19F7A4C4F345BFFC26CE /* UITextField+PlaceholderColor.m */,
-				03A1D1E0DEE829F0CAA4A3030D7427C1 /* UITextField+TCCustomFont.h */,
-				1111729DA156FCA3CC33EAA7A298A6E3 /* UITextField+TCCustomFont.m */,
-				86043B582EC9EA099DD5BB4234A1DD20 /* UITextView+TCCustomFont.h */,
-				3E5A7A12270E01802C353E47B9658660 /* UITextView+TCCustomFont.m */,
-				0F28416EE05B9EC2BB8211F32A83A081 /* Support Files */,
+				A4FE5B6363E34835648A54C0DD31476F /* CSAnimation.h */,
+				C50D537F57CB1D13A87EB8AD9D52F01B /* CSAnimation.m */,
+				AE207BBF38A774116215FA09BD302FD3 /* CSAnimationView.h */,
+				9C7E14B80DCE1C149400712DF618A45D /* CSAnimationView.m */,
+				0EACBB2D0DD24EA295A838AA2F8A26A8 /* CSBlurView.h */,
+				B00229F1FB77F3E9502995E6959BA392 /* CSBlurView.m */,
+				1D7499EFF3CAFA7D6993E777EB2913AE /* CSNavigationController.h */,
+				F0EA9C1C621F826C63C993724C4B5ABB /* CSNavigationController.m */,
+				A62ADDEE6B73EF8CC4019605581BD2DD /* Canvas.h */,
+				F0BBC4CF022F93FFA9DE482C377956B8 /* UIButton+TCCustomFont.h */,
+				69BBE3AEC37D735A2496446A7C7128DD /* UIButton+TCCustomFont.m */,
+				A354A7C1CD434EB920DB9D348744A5C0 /* UILabel+TCCustomFont.h */,
+				E0DF66B64A6CC978CDCE01533200440C /* UILabel+TCCustomFont.m */,
+				825E99C6B9C89EE403531D0E8928D3B7 /* UINavigationBar+TCCustomFont.h */,
+				D973282E09851FC019FA6B6A1A66CE41 /* UINavigationBar+TCCustomFont.m */,
+				6C97BEC3811456942FB4ACE6AE8E1D66 /* UITextField+PlaceholderColor.h */,
+				2317C879EDB0893EF3FC66BD3A1D6F54 /* UITextField+PlaceholderColor.m */,
+				709A5219FA24F2BE80F37E0AC7DA65E7 /* UITextField+TCCustomFont.h */,
+				5DB756B72678315DDCA4C6A8852D3238 /* UITextField+TCCustomFont.m */,
+				F3D7ADAFBA100F9C91ED2650A5CA9299 /* UITextView+TCCustomFont.h */,
+				98687625B04FB783E0A23EB0703CEADF /* UITextView+TCCustomFont.m */,
+				875DCEC39D56EA470F4539798B37AA05 /* Support Files */,
 			);
 			path = Canvas;
 			sourceTree = "<group>";
 		};
-		F1C78F9585DEF83568C1DDD945EBD0E5 /* Pods */ = {
+		F89EC42DEE593B657CEAB7A8A120E963 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				D8205401A9509D74F1159C62D6446F3F /* Canvas */,
+				F298CF9F7C9A5E38ED6D251BAAF5E5F4 /* Canvas */,
+				61EC93A64DC105241D492F8F390953EF /* TPKeyboardAvoiding */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -228,43 +303,55 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		4306BF1D3002847D82623DB306BB7A57 /* Headers */ = {
+		05B43CC26FB882092D65491CC9CDBA19 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6815883279379A4EE1DFA49326622A09 /* CSAnimation.h in Headers */,
-				FA8A0A5EC5C538C9B1A3D9875ABF62DE /* CSAnimationView.h in Headers */,
-				0643EB86243A50151583B73242067FC6 /* CSBlurView.h in Headers */,
-				AEF5857E0F6178C33075CAD8EFA75C4D /* CSNavigationController.h in Headers */,
-				5F01FB04ED48CC70113C43AE621394D9 /* Canvas-umbrella.h in Headers */,
-				4C6A807352AD3CA390F89FAAD3F9B523 /* Canvas.h in Headers */,
-				D54CBAFD59E4A0CD4192750749217820 /* UIButton+TCCustomFont.h in Headers */,
-				A44C48D877C4552CEDD243E2A1C803DC /* UILabel+TCCustomFont.h in Headers */,
-				911E6CB35F7AC669494CE47FFCEDDBD6 /* UINavigationBar+TCCustomFont.h in Headers */,
-				67B83EF1CE623D472A818F785C83028B /* UITextField+PlaceholderColor.h in Headers */,
-				55887E6F0CE8008E33902EFA5168435B /* UITextField+TCCustomFont.h in Headers */,
-				4516045CDD9AB4E7D66479409E4EDD94 /* UITextView+TCCustomFont.h in Headers */,
+				687EBDCA7690F2F0BAF3D8F484072AEA /* CSAnimation.h in Headers */,
+				7984606324B18BA066F6B21BE1EADE15 /* CSAnimationView.h in Headers */,
+				3D6E4155D06EAB641C6172D889787241 /* CSBlurView.h in Headers */,
+				74B4A274AD905965A0B34050A1CE4E29 /* CSNavigationController.h in Headers */,
+				BA478C2076932AC6920C09CDA5CF688D /* Canvas-umbrella.h in Headers */,
+				86575FC52B6D94F2F8FA641C9C9B190D /* Canvas.h in Headers */,
+				1186A1E7312C16E21493887F91169837 /* UIButton+TCCustomFont.h in Headers */,
+				A11558B9E6F654D0057187537D2703E6 /* UILabel+TCCustomFont.h in Headers */,
+				4F534F1288C431DEEC804DBB04813717 /* UINavigationBar+TCCustomFont.h in Headers */,
+				293261DD4CA5A85533412442AF8E7855 /* UITextField+PlaceholderColor.h in Headers */,
+				7C818700688E55589C104250140A1D6D /* UITextField+TCCustomFont.h in Headers */,
+				F04B0E82EBEF55164269CAE899A3C7CA /* UITextView+TCCustomFont.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BE5E2C9D46C3F9BF32BA595349761E7 /* Headers */ = {
+		23007D49A1B0318C6B989F59A4E1A4E9 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C2E016DB3C728FFC2EEDECAEE9B03651 /* Pods-DNApp-umbrella.h in Headers */,
+				D18A96BE86E4C7851A5BC825B9BD6C64 /* Pods-DNApp-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D994DDA15004F81A9BBFDB1361E4DB75 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B7EAE728A28A17F85CE07A055CCBF003 /* TPKeyboardAvoiding-umbrella.h in Headers */,
+				4FF94C09634969673428E2F89EC1F53B /* TPKeyboardAvoidingCollectionView.h in Headers */,
+				FA9205E06D63A11FD8F5A6562AFC655B /* TPKeyboardAvoidingScrollView.h in Headers */,
+				72D352B825697E452C2D280BAE2A7D63 /* TPKeyboardAvoidingTableView.h in Headers */,
+				3ED0225C3C66A8E1365EA8B43F2F518D /* UIScrollView+TPKeyboardAvoidingAdditions.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		796D3FB08855B0BA7E78E124085017C5 /* Canvas */ = {
+		B33D332C620E18A64E2F28693A88F67C /* Canvas */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E3730A6817788E3472183F9F59E63385 /* Build configuration list for PBXNativeTarget "Canvas" */;
+			buildConfigurationList = 61B9661EAA7738C758B55719556433A6 /* Build configuration list for PBXNativeTarget "Canvas" */;
 			buildPhases = (
-				B2C52ADC116D233035EE643D537F0837 /* Sources */,
-				47ED26F090E2433A11E8333953293211 /* Frameworks */,
-				4306BF1D3002847D82623DB306BB7A57 /* Headers */,
+				6BB25BACA8EA9DC51BB1B376AEDF71D6 /* Sources */,
+				05AE5C0371A194B9AB3F43A4A34A0876 /* Frameworks */,
+				05B43CC26FB882092D65491CC9CDBA19 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -272,25 +359,43 @@
 			);
 			name = Canvas;
 			productName = Canvas;
-			productReference = C52F73FF4594021DD7730255DA698D01 /* Canvas.framework */;
+			productReference = 2ED45AD2772D907E986EA18DB0D973D5 /* Canvas.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		E28B0C8796D72DC7E2F51E13554D9EC9 /* Pods-DNApp */ = {
+		C76B76139F2BECB04084489C1DE3BBC2 /* Pods-DNApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 45F08749A90792E73155661C55158A10 /* Build configuration list for PBXNativeTarget "Pods-DNApp" */;
+			buildConfigurationList = 840AFE469326F1DF8CB78EAD2A4D191B /* Build configuration list for PBXNativeTarget "Pods-DNApp" */;
 			buildPhases = (
-				57BDA56996BAA2EE2A9EFBA64C7B256A /* Sources */,
-				0119E386A5137DD09FFF5D8AAD247359 /* Frameworks */,
-				4BE5E2C9D46C3F9BF32BA595349761E7 /* Headers */,
+				C551EB5741160203614D3862FD57B832 /* Sources */,
+				02FF19B38679860659416662DFAAA38E /* Frameworks */,
+				23007D49A1B0318C6B989F59A4E1A4E9 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				1B0A37B4CB8FF5CA7F5D5256449D5672 /* PBXTargetDependency */,
+				9F1CBB0A5222445BC7EE00EDD513E3A2 /* PBXTargetDependency */,
+				93E335222D184F6A6B2E5D016E0745E0 /* PBXTargetDependency */,
 			);
 			name = "Pods-DNApp";
 			productName = "Pods-DNApp";
-			productReference = C4570F77DDF6CA93DBDAE3AB401F8DC8 /* Pods_DNApp.framework */;
+			productReference = 80245DA9C37D5DEA6E38063FBAEEB86F /* Pods_DNApp.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		EC19C6B32D8D1845093C2F36A85BF697 /* TPKeyboardAvoiding */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 796CF4CDFF8989B933B6331A5D6E555E /* Build configuration list for PBXNativeTarget "TPKeyboardAvoiding" */;
+			buildPhases = (
+				3A1E6CD827D3C1F8402CD0D070381CAF /* Sources */,
+				3BF78EBC391B8982CFA0AB180925AAC3 /* Frameworks */,
+				D994DDA15004F81A9BBFDB1361E4DB75 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TPKeyboardAvoiding;
+			productName = TPKeyboardAvoiding;
+			productReference = CA073352509A0F04C5195D50B55A7787 /* TPKeyboardAvoiding.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -314,72 +419,89 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				796D3FB08855B0BA7E78E124085017C5 /* Canvas */,
-				E28B0C8796D72DC7E2F51E13554D9EC9 /* Pods-DNApp */,
+				B33D332C620E18A64E2F28693A88F67C /* Canvas */,
+				C76B76139F2BECB04084489C1DE3BBC2 /* Pods-DNApp */,
+				EC19C6B32D8D1845093C2F36A85BF697 /* TPKeyboardAvoiding */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		57BDA56996BAA2EE2A9EFBA64C7B256A /* Sources */ = {
+		3A1E6CD827D3C1F8402CD0D070381CAF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				06403B37B818D8455246306C32520986 /* Pods-DNApp-dummy.m in Sources */,
+				10A699027D3B196D7FE23DEEA700B170 /* TPKeyboardAvoiding-dummy.m in Sources */,
+				645AC040274390F59C3B435C11C4692F /* TPKeyboardAvoidingCollectionView.m in Sources */,
+				3A41B87D5025D01A0846AB2FC0026335 /* TPKeyboardAvoidingScrollView.m in Sources */,
+				A655784924E94539EB4EC3B40FDA778E /* TPKeyboardAvoidingTableView.m in Sources */,
+				C58030B45ACDACADFF4C0C9DB91E363D /* UIScrollView+TPKeyboardAvoidingAdditions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B2C52ADC116D233035EE643D537F0837 /* Sources */ = {
+		6BB25BACA8EA9DC51BB1B376AEDF71D6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				49ECAC0B604C2DFE1049B84BC299A212 /* CSAnimation.m in Sources */,
-				4933F8C4372E4EBAC3BA2092E61F5676 /* CSAnimationView.m in Sources */,
-				AEF92EFA96A36C51BE6D00677F9D148A /* CSBlurView.m in Sources */,
-				2FAD801C5CBB32162AD255D082DF137C /* CSNavigationController.m in Sources */,
-				D3CE9C79B626BAD0944160C1D3266984 /* Canvas-dummy.m in Sources */,
-				672489095AD81B639E5425324DD097E3 /* UIButton+TCCustomFont.m in Sources */,
-				F5036BDFD4BD2511612E6B368B69F596 /* UILabel+TCCustomFont.m in Sources */,
-				DC6AD719B7979BDA751CA946616C01B7 /* UINavigationBar+TCCustomFont.m in Sources */,
-				92AE130773DA67356F43CFDF02D2BD8A /* UITextField+PlaceholderColor.m in Sources */,
-				7EC91991A509FF85C7A8617FDCBB3C2A /* UITextField+TCCustomFont.m in Sources */,
-				1DDFC6D6567411E8E74E57D59F3D5E7B /* UITextView+TCCustomFont.m in Sources */,
+				E1E6C5B00C2A1F32D0C0AAC0A9A51CB8 /* CSAnimation.m in Sources */,
+				CFC46AC78FCDC0E3A861609E45F31897 /* CSAnimationView.m in Sources */,
+				8B08E5566E149CCD9097C4A3CD832C8C /* CSBlurView.m in Sources */,
+				0B0A79B51C6FB2069885D536AB3BC647 /* CSNavigationController.m in Sources */,
+				DB883B5080EEA4BCEFA05F02CE945C36 /* Canvas-dummy.m in Sources */,
+				F602B7525568F2550E83319C379B7CA6 /* UIButton+TCCustomFont.m in Sources */,
+				894F16254AC1F4E0EADF8E38500292D4 /* UILabel+TCCustomFont.m in Sources */,
+				57C9F3DA68E658E662E0E267BAAD62A9 /* UINavigationBar+TCCustomFont.m in Sources */,
+				74C38C1CE4DB446F813EA2DB585CFEA4 /* UITextField+PlaceholderColor.m in Sources */,
+				C33D1161D33085F5F7AFBD3235A8A2CE /* UITextField+TCCustomFont.m in Sources */,
+				81C6BEA4E8023D5A267007AD713940C1 /* UITextView+TCCustomFont.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C551EB5741160203614D3862FD57B832 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				430705D9FFE9BB62C97BC5F8E379D163 /* Pods-DNApp-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		1B0A37B4CB8FF5CA7F5D5256449D5672 /* PBXTargetDependency */ = {
+		93E335222D184F6A6B2E5D016E0745E0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = TPKeyboardAvoiding;
+			target = EC19C6B32D8D1845093C2F36A85BF697 /* TPKeyboardAvoiding */;
+			targetProxy = 5A4E3C22B9DB17A2B561DA7B30B8684A /* PBXContainerItemProxy */;
+		};
+		9F1CBB0A5222445BC7EE00EDD513E3A2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Canvas;
-			target = 796D3FB08855B0BA7E78E124085017C5 /* Canvas */;
-			targetProxy = B6CCB3090F2E1B38A067B10752AFD442 /* PBXContainerItemProxy */;
+			target = B33D332C620E18A64E2F28693A88F67C /* Canvas */;
+			targetProxy = C63C3EC4F78D3C76CDCDEA97AEA7FC05 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		06DE4CCC2FF0AD1B8412E1AA191286B2 /* Release */ = {
+		1AF59210AF85175279F8484B80146CDF /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E03A8A3F8B96B8F37574EEFA6E7A0CFE /* Pods-DNApp.release.xcconfig */;
+			baseConfigurationReference = 4FCDED621DF5C2F8C6F9B34FB68D2155 /* TPKeyboardAvoiding-Private.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 1.2.9;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-DNApp/Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/TPKeyboardAvoiding/TPKeyboardAvoiding-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/TPKeyboardAvoiding/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-DNApp/Pods-DNApp.modulemap";
+				MODULEMAP_FILE = "Target Support Files/TPKeyboardAvoiding/TPKeyboardAvoiding.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = Pods_DNApp;
+				PRODUCT_NAME = TPKeyboardAvoiding;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -388,9 +510,9 @@
 			};
 			name = Release;
 		};
-		3BA232646FFE3159DF5BBAD9E88D386C /* Debug */ = {
+		28A295DF271742C0A94B7694B5C0BF5D /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1729B1EBAFB3F342E17BBD83762920D4 /* Pods-DNApp.debug.xcconfig */;
+			baseConfigurationReference = 75172959D793AEF9EB21374FBE811CD2 /* Pods-DNApp.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -416,6 +538,62 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
+		};
+		57534CA15FCC9CA3713792784A2E2B18 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 69BD53B70A1F76CEC32D25F642B7C8EC /* Canvas-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 0.1.2;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 0.1.2;
+				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Canvas/Canvas-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Canvas/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Canvas/Canvas.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = Canvas;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		665A0C2104B72B1204BE169E7C0F4AA9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 06B9D0ED2BDB1BA01E99520A42C34A6A /* Pods-DNApp.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-DNApp/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-DNApp/Pods-DNApp.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_DNApp;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		A70CDAD61F90AC503C7D04CC22DA2923 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -456,36 +634,9 @@
 			};
 			name = Debug;
 		};
-		B0FF55CB759BF051E65813655CF3C1C3 /* Release */ = {
+		C8D975EB980665F9D4E70EF23A2003BB /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4D655FA74B8F4BE96D1201FF89C0BFCB /* Canvas-Private.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 0.1.2;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 0.1.2;
-				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Canvas/Canvas-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Canvas/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Canvas/Canvas.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = Canvas;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		EDB44F21FE5E107AB2377768DCBBD8CF /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4D655FA74B8F4BE96D1201FF89C0BFCB /* Canvas-Private.xcconfig */;
+			baseConfigurationReference = 69BD53B70A1F76CEC32D25F642B7C8EC /* Canvas-Private.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 0.1.2;
@@ -502,6 +653,33 @@
 				MODULEMAP_FILE = "Target Support Files/Canvas/Canvas.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
 				PRODUCT_NAME = Canvas;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		CA7F3838F87454A8622A6AB4C72BEEF1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4FCDED621DF5C2F8C6F9B34FB68D2155 /* TPKeyboardAvoiding-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1.2.9;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/TPKeyboardAvoiding/TPKeyboardAvoiding-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/TPKeyboardAvoiding/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/TPKeyboardAvoiding/TPKeyboardAvoiding.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = TPKeyboardAvoiding;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -556,20 +734,29 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		45F08749A90792E73155661C55158A10 /* Build configuration list for PBXNativeTarget "Pods-DNApp" */ = {
+		61B9661EAA7738C758B55719556433A6 /* Build configuration list for PBXNativeTarget "Canvas" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3BA232646FFE3159DF5BBAD9E88D386C /* Debug */,
-				06DE4CCC2FF0AD1B8412E1AA191286B2 /* Release */,
+				C8D975EB980665F9D4E70EF23A2003BB /* Debug */,
+				57534CA15FCC9CA3713792784A2E2B18 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E3730A6817788E3472183F9F59E63385 /* Build configuration list for PBXNativeTarget "Canvas" */ = {
+		796CF4CDFF8989B933B6331A5D6E555E /* Build configuration list for PBXNativeTarget "TPKeyboardAvoiding" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EDB44F21FE5E107AB2377768DCBBD8CF /* Debug */,
-				B0FF55CB759BF051E65813655CF3C1C3 /* Release */,
+				CA7F3838F87454A8622A6AB4C72BEEF1 /* Debug */,
+				1AF59210AF85175279F8484B80146CDF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		840AFE469326F1DF8CB78EAD2A4D191B /* Build configuration list for PBXNativeTarget "Pods-DNApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				28A295DF271742C0A94B7694B5C0BF5D /* Debug */,
+				665A0C2104B72B1204BE169E7C0F4AA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4F025534377194F1E89B1287"
-               BuildableName = "Canvas.framework"
-               BlueprintName = "Canvas"
+               BlueprintIdentifier = "CDD064FD852C248DD39FF45E"
+               BuildableName = "TPKeyboardAvoiding.framework"
+               BlueprintName = "TPKeyboardAvoiding"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
